@@ -54,14 +54,3 @@ prize_life = 150`
 
  ### English level: 
  Pre-Intermediate
-
-
-
-
-
-
-
-
-
-
-
